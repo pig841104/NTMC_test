@@ -1,6 +1,5 @@
 import RPi.GPIO as GPIO
 import requests as re
-import requests
 from gpiozero import Button
 from signal import pause
 
